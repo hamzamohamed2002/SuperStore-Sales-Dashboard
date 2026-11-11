@@ -1,5 +1,7 @@
 # SuperStore Sales Dashboard
 
+![Dashboard Overview](images/overview.jpg)
+
 ## Overview
 
 An interactive 3-page Power BI dashboard that analyzes sales, profit, and customer performance for a US retail store, and shows whether growth is profitable.
@@ -67,12 +69,11 @@ The full cleaning log is in `SuperStore_Cleaning_Log.xlsx`.
 
 Power Query, DAX, Power BI (data model, bookmarks, navigation), Deneb (Vega-Lite)
 
-## Repository Files
+## How to Use
 
-- `SuperStore_SalesDashboard.pbix`: Power BI report
-- `SuperStore_Sales_Dataset.csv`: source data
-- `SuperStore_Cleaning_Log.xlsx`: cleaning documentation
-- `images/`: dashboard screenshots
+1. Download `SuperStore_SalesDashboard.pbix` from this repository.
+2. Open it in Power BI Desktop.
+3. If Power BI asks for the data source, point it to `SuperStore_Sales_Dataset.csv` (Transform data, then Data source settings).
 
 ## Contact
 
