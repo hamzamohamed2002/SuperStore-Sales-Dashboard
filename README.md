@@ -1,6 +1,6 @@
 # SuperStore Sales Dashboard
 
-![Dashboard Overview](images/overview.jpg)
+![Dashboard Overview](overview.jpg)
 
 ## Overview
 
@@ -15,17 +15,17 @@ An interactive 3-page Power BI dashboard that analyzes sales, profit, and custom
 ### 1. Overview
 Headline KPIs, sales by category, ship mode, and a ranked view of sub-categories.
 
-![Overview](images/overview.jpg)
+![Overview](overview.jpg)
 
 ### 2. Time & Profit
 Sales and profit by month, and sales by payment mode, to spot seasonality and margin changes.
 
-![Time & Profit](images/time_profit.jpg)
+![Time & Profit](time_profit.jpg)
 
 ### 3. Customers & Geography
 Sales by region, customer segment, and state.
 
-![Customers & Geography](images/customers_geography.jpg)
+![Customers & Geography](customers_geography.jpg)
 
 The same KPI cards and year filter (All, 2019, 2020) appear on all three pages.
 
