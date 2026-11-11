@@ -1,7 +1,5 @@
 # SuperStore Sales Dashboard
 
-![Dashboard Overview](overview.jpg)
-
 ## Overview
 
 An interactive 3-page Power BI dashboard that analyzes sales, profit, and customer performance for a US retail store, and shows whether growth is profitable.
@@ -14,6 +12,8 @@ An interactive 3-page Power BI dashboard that analyzes sales, profit, and custom
 
 ### 1. Overview
 Headline KPIs, sales by category, ship mode, and a ranked view of sub-categories.
+
+![Overview](overview.jpg)
 
 ### 2. Time & Profit
 Sales and profit by month, and sales by payment mode, to spot seasonality and margin changes.
